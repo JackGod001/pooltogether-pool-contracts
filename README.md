@@ -17,7 +17,6 @@ The [PoolTogether](https://www.pooltogether.com/) Prize Savings Protocol Ethereu
 For an overview of the concepts and API please see the [documentation](https://v3.docs.pooltogether.com/)
 
 # Setup
-
 This project is available as an NPM package:
 
 ```bash
