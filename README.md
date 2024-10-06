@@ -8,7 +8,7 @@
 <br />
 
 # PoolTogether 奖品储蓄协议
-git
+git1
 彩票合约，存入的资金用于自动寻找AAVE赚取收益
 PoolTogether 依赖于 ChainLink VRF（可验证随机函数）。事实上，PoolTogether 是 ChainLink 上的特色案例研究之一。ChainLink VRF 确保以可验证的随机方式选择获胜者。
 [![<PoolTogether>](https://circleci.com/gh/pooltogether/pooltogether-pool-contracts.svg?style=shield)](https://circleci.com/gh/pooltogether/pooltogether-pool-contracts) [![Coverage Status](https://coveralls.io/repos/github/pooltogether/pooltogether-pool-contracts/badge.svg?branch=master&service=github&kill_cache=2)](https://coveralls.io/github/pooltogether/pooltogether-pool-contracts?branch=master) [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
